@@ -2,6 +2,8 @@
 
 ## A constructed auxiliary language
 
+theme: jekyll-theme-tactile
+
 ![][image1]
 
 [**1 Phonology 5**](#heading=h.77w7vf5j5yxp)
@@ -1779,7 +1781,7 @@ verb   infinitive 3sg nonpast 3sg imp. 3sg aorist
 **grow**   Háles  Háleti  Hálet  Hêlst  
 **have**   kápes  kápti  kápt  kâpst  
 **hear**   HáwdhHes HáwdhHeti HáwdhHet HêwdhHst  
-**be hungry**    
+**be hungry**
 **know**   wéjdes wéjdeti wéjdet  wêjdst  
 **like**   bhréwgjes bhrûgjeti bhrûgjet bhréwgst  
 **make**   dhêkes dhHkjéti dhHkjét dhêkst  
