@@ -1,5 +1,7 @@
 ![][image1]
 
+{:toc}
+
 [**1 Phonology 5**](#heading=h.77w7vf5j5yxp)
 
 [1.1 Consonants 6](#1.1-consonants)
