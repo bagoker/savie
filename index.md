@@ -1,7 +1,3 @@
-# Standard Average Indo-European
-
-## A constructed auxiliary language
-
 ![][image1]
 
 [**1 Phonology 5**](#heading=h.77w7vf5j5yxp)
