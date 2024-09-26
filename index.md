@@ -4,6 +4,12 @@
 {:toc}
 
 <style>
+      html {
+            width: 80vw;
+            margin: auto;
+            text-align: justify;
+            text-justify: inter-word;
+      }
       h1 {
             font-size: 34pt;
             font-family: "Noto Sans"
