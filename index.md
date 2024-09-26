@@ -3,6 +3,10 @@
 * Table of contents
 {:toc}
 
+<link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Noto+Sans">
+<style>
+
 <style>
       html {
             width: 80vw;
