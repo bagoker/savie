@@ -3,6 +3,29 @@
 * Table of contents
 {:toc}
 
+<style>
+      h1 {
+            font-size: 34pt;
+            font-family: "Noto Sans"
+      }
+      h2 {
+            font-size: 28pt;
+            font-family: "Noto Sans"
+      }
+      h3 {
+            font-size: 22pt;
+            font-family: "Noto Sans"
+      }
+      h4 {
+            font-size: 16pt;
+            font-family: "Noto Sans"
+      }
+      p {
+            font-size: 14pt;
+            font-family: "Noto Sans"
+      }
+</style>
+
 # 0   Introduction
 
 **sl̥Hwéje\! ghr̥jé\! némostoj\! sr̥wós\! priwójtos\! sqéjttis\! kl̥Hâjō\! jánu\!** and finally, *hello*\!
