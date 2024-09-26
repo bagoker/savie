@@ -1,6 +1,6 @@
 ![The flag of SAvIE: a black horse with its front legs forward, on a white backgorund, with a black border.](assets/horse2.png)
 
-0. Table of contents
+* Table of contents
 {:toc}
 
 # 0   Introduction
