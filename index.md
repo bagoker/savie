@@ -7,6 +7,18 @@
 
 **sl̥Hwéje\! ghr̥jé\! némostoj\! sr̥wós\! priwójtos\! sqéjttis\! kl̥Hâjō\! jánu\!** and finally, *hello*\!
 
+Thank you very much for your interest in Standard Average Indo-European. I began this project on June 10th, 2024, without the intention of taking it particularly seriously. A few months and much research later have transformed the project into something that has exceeded my expectations at every stage. So, it is with great pleasure that I present the following document for public viewing.
+
+The major principle of SAvIE is its adherence to the features of Standard Average European as set out by Martin Haspelmath (2001). This essentially projects a set of features shared by many modern Indo-European languages onto Proto-Indo-European. The result is a language which appears and sounds as though it were a proto-language, but operates with much more modern features, especially those confined to western Indo-European.
+
+Given my choice to use Proto-Indo-European as the basis for this language, I have both had to make specific choices in reconstruction based on preexisting academic work (chiefly Leiden etymological dictionaries), and ensure a wide range of vocabulary within the language in order to be representative of vocabulary in modern languages. This becomes very clear with the examples above, which are remodeled from Latin, Greek, Sanskrit, and multiple Slavic and Germanic varieties, as well as examples of internally-constructed vocabulary.
+
+The result is an extraordinary and rich language with features and words that should fundamentally be instinctive or familiar to speakers of many families outlined in Haspelmath (2001). Ultimately, however, this was an artistic project above all, and has given me so much more pleasure than I ever expected.
+
+I would like to recognise the important work of Indo-Europeanists in making this project possible, and the contributions made by individuals in the Celtic Tearooms and IE Conlangs Discord servers.
+
+**Hsubhrūgjéte!** Enjoy!
+
 # 1   Phonology
 
 ## **1.1   Consonants**
@@ -106,7 +118,7 @@ In addition, SAvIE has rules relating to the stress of compounds. These can be e
 In close compounds, the first element is stressed, and receives the only stress in the word. In loose compounds, the second element is stressed, and the first can optionally be written without stress marking. Often, words can be written as either type of compound, but they usually appear as only one; for example, **ghóstipotis** “lord” is a close compound, and can be written, following the correct conventions of stress, as a loose compound **ghostejs pótis**, specifically avoiding stress marking on the first element.  
 Optionally, rather than refraining from marking stress entirely, a grave accent ⟨  ̀⟩ can be used on the first word to indicate secondary stress, such as **ghostèjs pótis**.
 
-# 2  **Major features of SAE
+# 2  Major features of SAE
 
 ## **2.1   Definite and indefinite articles**
 
@@ -184,7 +196,7 @@ These decline in the 1st, 2nd, and 3rd persons singular and plural in all cases 
 |  | Nominative | Accusative | Genitive | Dative | Locative | Adjective |
 | :---- | ----- | ----- | ----- | ----- | ----- | ----- |
 | **1st singular** | éǵ eǵóm éǵō | mé | méne mój | méǵhjo | mój | (H)mós /-â /-óm |
-| **2nd singular** | tû | twé | téwe tój | tébhi tébhjo | tój | twós /-â /-óm |
+| **2nd singular** | tû | twé | téwe | tébhi tébhjo tój | tój | twós /-â /-óm |
 | **3rd singular masculine** | ís éj Hé | ím | ésjo Héso | ésmej Hésmōj | (H)ésmi | ( swós /-â /-óm ) |
 | **3rd singular neuter** | íd |  |  |  |  |  |
 | **3rd singular feminine** | î | îm̥ | ésjās  | (H)ésjāi | (H)ésjā(i) |  |
