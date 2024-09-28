@@ -3,6 +3,9 @@
 * Table of contents
 {:toc}
 
+<link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Noto+Sans">
+
 <style>
       html {
             width: 80vw;
@@ -66,7 +69,7 @@ Both consonants can be syllabic resonants, written ⟨l̥⟩ and ⟨r̥⟩ or �
 
 ### 1.1.3   \*s
 
-This appears as ⟨s⟩ \[s\], but following the evidence of daughter languages, it can be pronounced \[z\] in the cluster /sd/ or /sdʰ/, in which case it can optionally be written as ⟨z⟩ \[z\], such as **nizdós** "nest" for ***nisdós*** or **sízdō** "I am sitting" for ***sísdō***. In addition to \[s\] it can be pronounced \[s̱\], \[θ\], or even \[ɕ\], \[ʃ\] when adjacent to the sounds ⟨y⟩ \[j\] or ⟨i⟩ \[i\].  
+This appears as ⟨s⟩ \[s\], but following the evidence of daughter languages, it can be pronounced \[z\] in the cluster /sd/ or /sdʰ/, in which case it can optionally be written as ⟨z⟩ \[z\], such as **nizdós** "nest" for ***nisdós*** or **sízdō** "I am sitting" for ***sísdō***. In addition to \[s\] it can be pronounced \[s̱\], \[θ\], or even \[ɕ\], \[ʃ\] when adjacent to the sounds ⟨j⟩ \[j\] or ⟨i⟩ \[i\].  
 The **s-mobile** is written ⟨S⟩, such as in the word **Stégos** "roof", and may be pronounced \[s\] or be entirely silent.
 
 ### 1.1.4   \*j, \*w
