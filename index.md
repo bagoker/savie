@@ -46,7 +46,7 @@ The result is an extraordinary and rich language with features and words that sh
 
 I would like to recognise the important work of Indo-Europeanists in making this project possible, and the contributions made by individuals in the Celtic Tearooms and IE Conlangs Discord servers.
 
-**Hsubhrūgjéte!** Enjoy!
+**Hsubhrūgéte!** Enjoy!
 
 # 1   Phonology
 
@@ -167,7 +167,7 @@ Instead of using dative constructions, there can either be a nominative-active-a
 
 ## **2.5   Participial passive**
 
-Instead of using a conjugated passive, the periphrastic passive is formed with the verb **ésti** "to be" and a passive participle ending in **\-(o)mHnos**/**\-(o)mHnā**/**\-(o)mHnom**.
+Instead of using a conjugated passive, the periphrastic passive is formed with the verb **Hésti** "to be" and a passive participle ending in **\-(o)mHnos**/**\-(o)mHnā**/**\-(o)mHnom**.
 
 ## **2.6   Anticausative prominence**
 
