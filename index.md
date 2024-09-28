@@ -166,7 +166,7 @@ SAvIE can use the word **kápes**, a derivative of *\*kap-* "to seize, hold" (wh
 
 ## **2.4   Nominative experiencers**
 
-Instead of using dative constructions, there can either be a nominative-active-accusative or nominative-deponent-ablative use of the word **bhrûgeti** *to enjoy, to like* (from *\*bʰruHg-e-ti*) with a semantic patient.
+Instead of using dative constructions, there can either be a nominative-active-accusative or nominative-deponent-ablative use of the word **bhrūgéti** *to enjoy, to like* (from *\*bʰruHg-e-ti*) with a semantic patient.
 
 ## **2.5   Participial passive**
 
