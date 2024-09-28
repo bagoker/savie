@@ -406,11 +406,11 @@ This suffix produces masculine action nouns from verb roots.
 
 ### 4.5.8   Agentive and resultative \-os
 
-Nouns with the pattern (o)-ós create masculine agent nouns denoting someone or something which performs a related action, such as **tomHós** "cutter, slicer", from the verb **tm̥nês** (← *tm̥-né-h₁-es*) "to slice, to section, to cut up". When the stress shifts on to the root vowel, this produces a related result noun, **tómHos** "a cut, a slice". Both of these noun patterns do not shift stress or ablaut within their own paradigm (giving **tomHósjo** "of a/the cutter" and **tómHosjo** "of a/the slice").
+Nouns with the pattern (o)-ós create masculine agent nouns denoting someone or something which performs a related action, such as **tomHós** "cutter, slicer", from the verb **tm̥nêmi** (← *tm̥-né-h₁-mi*) "to slice, to section, to cut up". When the stress shifts on to the root vowel, this produces a related result noun, **tómHos** "a cut, a slice". Both of these noun patterns do not shift stress or ablaut within their own paradigm (giving **tomHósjo** "of a/the cutter" and **tómHosjo** "of a/the slice").
 
 ### 4.5.9   \-snā
 
-The ending **\-snā** is attached usually to verb stems to indicate either a result noun or a noun indicating the a summary of a category, for example converting **tétḱes** "to create, produce" into **tétḱsnā** "art, craft".
+The ending **\-snā** is attached usually to verb stems to indicate either a result noun or a noun indicating the a summary of a category, for example converting **tétḱō** "to create, produce" into **tétḱsnā** "art, craft".
 
 |  | \-snā |
 | :---- | :---: |
