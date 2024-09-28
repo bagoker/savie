@@ -162,7 +162,7 @@ The pronoun **jos** can be used to introduce relative clauses, but alternatively
 
 ## **2.3   "Have"-perfect**
 
-SAvIE can use the word **kápes**, a derivative of *\*kap-* "to seize, hold" (which gives Latin *capiō* and English *have*), to form a perfect tense with the participle **\-tós**/**\-tâ**/**\-tóm** of a verb.
+SAvIE can use the word **kápmi**, a derivative of *\*kap-* "to seize, hold" (which gives Latin *capiō* and English *have*), to form a perfect tense with the participle **\-tós**/**\-tâ**/**\-tóm** of a verb.
 
 ## **2.4   Nominative experiencers**
 
